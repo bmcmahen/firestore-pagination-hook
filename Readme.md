@@ -1,6 +1,6 @@
 # firestore-pagination-hook
 
-Cumulative pagination for firestore collections
+Hooks for managing cumulative pagination for firestore collections. This means that references to existing entries are maintained as you load additional ones.
 
 ## Install
 
